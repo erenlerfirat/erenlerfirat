@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-Csharp-05122A?&style=flat&logo=c-sharp&logoColor=563D7C)&nbsp;
