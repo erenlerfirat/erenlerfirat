@@ -1,6 +1,6 @@
 ### 🛠 &nbsp;Tech Stack
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20%20Server-22ADF6?style=flat%20for-the-badge%20logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-[[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&for-the-badge&logo=redis&logoColor=white)&nbsp;
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&for-the-badge&logo=docker&logoColor=white)&nbsp;
