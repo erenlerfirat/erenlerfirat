@@ -8,12 +8,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 &nbsp;
 [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#)&nbsp;
-![React](https://img.shields.io/badge/-Csharp-05122A?&style=flat&logo=c-sharp&logoColor=563D7C)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-05122A?&style=flat&logo=c-sharp&logoColor=563D7C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
